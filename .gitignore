@@ -1,0 +1,22 @@
+# Environment
+.env
+.env.local
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Test outputs
+prospects.csv
+*_leads*.csv
+test_*.csv
